@@ -1,0 +1,2 @@
+# test
+tets tricky script
